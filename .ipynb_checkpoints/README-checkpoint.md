@@ -1,4 +1,4 @@
-# Welcome to Vignesh Baskaran's home page
+# Vignesh Baskaran
 
 ## About me:
 After graduating my Masters in Artificial Intelligence from KU Leuven, I started working as the first Data scientist of [Darts-IP](https://clarivate.com/darts-ip) in 2016. I started building the Machine learning team of my company and within three years we scaled up to seven Data scientists. I primarily focused on leading the Machine learning research and building state of the art NLP models. Owing to lack of good trademark image recognition systems in the market we spun off a separate business unit called [Darts-AI](https://darts.ai/). As the principal scientist of Darts-AI, I focused on developing state of the art image recognition systems. Within four months of launching the new business unit, my company got acquired and I moved to the parent company and then eventually within few months I left to build my own startup.
