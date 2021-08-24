@@ -16,4 +16,9 @@ Here is the entire stream for people who are interested in getting to know all t
 
 
 ## Current mission
-Fow now I am building my own open source projectsand dreaming about my own startup. 
+Fow now I am building my own open source project and dreaming about my own startup. 
+
+## Reach me:
+[Twitter](https://twitter.com/tweetvbaskaran)
+[LinkedIn](https://www.linkedin.com/in/vigneshbaskaran0123/)
+[Email](vignesh.sbaskaran@gmail.com)
