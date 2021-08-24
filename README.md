@@ -10,7 +10,7 @@ Here is a demo of some of the start of art NLP and Image recognition systems I d
 Here is the entire stream for people who are interested in getting to know all the Machine learning systems I developed at Darts-IP: [Video link](https://youtu.be/FQ_Y1xnscPg?t=3262)
 
 ## Accolades
-1. Winner - Data Science community Belgium hackathon - 2019
+1. Winner - Data Science community Belgium hackathon - 2019: [Video Link](https://youtu.be/WtNZ-55v0Ss)
 2. Runner - Data Science community Belgium hackathon - 2018
 3. Winner of KU Leuven University level Machine Learning Hackathon - 2016
 
