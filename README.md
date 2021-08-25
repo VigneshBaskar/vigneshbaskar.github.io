@@ -11,7 +11,7 @@ Here is the entire stream for people who are interested in getting to know all t
 
 ## Accolades
 1. Winner - Data Science community Belgium hackathon - 2019: [Video Link](https://youtu.be/WtNZ-55v0Ss)
-2. Runner - Data Science community Belgium hackathon - 2018
+2. Winner - Data Science community Belgium hackathon - 2018
 3. Winner of KU Leuven University level Machine Learning Hackathon - 2016
 
 
